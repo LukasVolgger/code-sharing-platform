@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#code_snippet {
+  width: 500px;
+  height: 250px;
+}
+
+#time_restriction, #views_restriction {
+  width: 100px;
+}
+
+#send_snippet {
+  width: max-content;
+}
